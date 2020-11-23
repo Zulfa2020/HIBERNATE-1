@@ -2,7 +2,7 @@ package com.nt.entity;
 
 import java.io.Serializable;
 
-import lombok.Data;
+
 
 public class StudentInfo implements Serializable {
 	private int sno;
